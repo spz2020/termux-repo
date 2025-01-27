@@ -1,0 +1,27 @@
+Codename: termux
+Version: 1
+Architectures: aarch64
+Description: termux repository
+Suite: termux
+Date: Mon, 27 Jan 2025 11:24:30 UTC
+Components: spz2020
+MD5Sum:
+ 743072390af8c01e2dc3a426eba2344a 1554 spz2020/binary-aarch64/Packages
+ c4fa36d1ed02529664bc037c6396c9fe 984 spz2020/binary-aarch64/Packages.xz
+ 0e00e38837530c97e0c927dfc4f5db1b 324 spz2020/Contents-aarch64.xz
+ da79e3e5233e10c9105cc42142f739c9 2300 spz2020/Contents-aarch64
+SHA1:
+ ff601568b544d7b04d69d3f1fa8e6ba0ae0a2f23 1554 spz2020/binary-aarch64/Packages
+ 6234f31ad28b09d4254e26ca34021d13311e831d 984 spz2020/binary-aarch64/Packages.xz
+ 4fde2e7b65d44ad646d5842894d94df472cb90af 324 spz2020/Contents-aarch64.xz
+ cc8f27f8a1dc376cdb4360319b8732818c64f0b3 2300 spz2020/Contents-aarch64
+SHA256:
+ f4ebdbb12249b9f8713fd35d9e9a1b4a1f4aae0ebf5e395a50728109a838dd60 1554 spz2020/binary-aarch64/Packages
+ 7beb9b2dc9bea445e3d933170fa1cb40830795bc6c108ff30af1877480814b53 984 spz2020/binary-aarch64/Packages.xz
+ 0c56c728103fa4caf3a6cf90c6a3ec3422c7a60cf77875ce2778e3b35dfe1af1 324 spz2020/Contents-aarch64.xz
+ 89cbc426f6d32c1b31db606035a510bbb3f20b51edf43b69f3a0fe91ff0d0111 2300 spz2020/Contents-aarch64
+SHA512:
+ 3846b87912cd2dfd38f943251327a92877147f4d1d6656392a1ff3ecfdaea9e802b8fde1d066ee500bdaa3aded4d9257a4580577707df423f36e984334647901 1554 spz2020/binary-aarch64/Packages
+ ec562c9baf78479d7fccb1e4a7f0db213892a9e01eec5f692b10c98ae5b045ee1aa0a80510df08843f4eccaf8ef51827378dafb4241a979c664fea2543281e98 984 spz2020/binary-aarch64/Packages.xz
+ 8adfab86ef4314bc2bc554cd39a194836bf7d50a0f5df021bd139e95b68afe0c0e3c690281fe7deac10a76e5938bc712dc8bbd2520cde2cddd12e333b3f12603 324 spz2020/Contents-aarch64.xz
+ 244087a52a3370ef6a5e343717727834b7989eea1d89edf03094b8d066c5eefbda1b8d389fc57900e06eef024907232a3c2083265ad397a67abee7e9e2f3c66f 2300 spz2020/Contents-aarch64
