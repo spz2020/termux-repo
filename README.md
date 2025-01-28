@@ -7,6 +7,8 @@ mkdir $PREFIX/etc/apt/sources.list.d
 nano $PREFIX/etc/apt/sources.list.d/spz2020.list
 ```
 ```
-
 deb https://spz2020.github.io/termux-repo termux spz2020
 ```
+# PKGS 
+- ptyaim
+- opennap-ng
